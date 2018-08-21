@@ -1,5 +1,7 @@
 # How to use
 
+> You can build this localy or pull from Dockerhub: `docker pull alvaropaco/meupedidos`
+
 ## Steps
 
 1. Building and runnig test cases:
