@@ -1,6 +1,6 @@
 # How to use
 
-> You can build this localy or pull from Dockerhub: `docker pull alvaropaco/meupedidos`
+> You can build this localy or pull from Dockerhub: `docker pull alvaropaco/meuspedidos`
 
 ## Steps
 
